@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/motion-trend/static/css/main.8587c3da.css",
+    "main.js": "/motion-trend/static/js/main.c83e6884.js",
+    "static/js/787.441cafb6.chunk.js": "/motion-trend/static/js/787.441cafb6.chunk.js",
+    "static/media/tutorial-img-1.png": "/motion-trend/static/media/tutorial-img-1.63fa6d75241e8abd588a.png",
+    "static/media/ref-img-1.png": "/motion-trend/static/media/ref-img-1.554950007e53e79267a3.png",
+    "index.html": "/motion-trend/index.html",
+    "main.8587c3da.css.map": "/motion-trend/static/css/main.8587c3da.css.map",
+    "main.c83e6884.js.map": "/motion-trend/static/js/main.c83e6884.js.map",
+    "787.441cafb6.chunk.js.map": "/motion-trend/static/js/787.441cafb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8587c3da.css",
+    "static/js/main.c83e6884.js"
+  ]
+}
