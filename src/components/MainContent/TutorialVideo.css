@@ -1,0 +1,68 @@
+.tutorial-video {
+    width: 450px;
+    height: 89px;
+    /* border: 1px solid red; */
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.tutorial-video-img,
+.tutorial-label-2,
+.tutorial-description-2,
+.like-icon-2,
+.like-number-2,
+.view-icon-2,
+.view-number-2 {
+    position: absolute;
+}
+.tutorial-video-img {
+    width: 157px;
+    height: 89px;
+    object-fit: contain;
+}
+
+
+.tutorial-label-2 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1;
+    color: var(--black);
+    left: 176px;
+}
+
+.tutorial-description-2 {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.25;
+    top: 29px;
+    left: 177px;
+}
+
+.like-icon-2 {
+    width: 14px;
+    height: 12px;
+    bottom: 2px;
+    left: 179px;
+}
+
+.like-number-2, .view-number-2 {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.46;
+    color: #333333;
+}
+.like-number-2 {
+    bottom: 0;
+    left: 197px;
+}
+.view-icon-2 {
+    width: 16px;
+    height: 12px;
+    bottom: 2px;
+    left: 224px;
+}
+
+.view-number-2 {
+    bottom: 0;
+    left: 244px;
+}

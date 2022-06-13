@@ -1,0 +1,17 @@
+.modal-bg {
+    width: 100vw;
+    height: 100vh;
+    padding: 0 0 70px;
+    z-index: 1;
+    opacity: 0.8;
+    mix-blend-mode: multiply;
+    background-color: #070707;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    color: aliceblue;
+}

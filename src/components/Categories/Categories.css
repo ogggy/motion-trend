@@ -1,0 +1,30 @@
+.categories {
+    width: 100%;
+    height: 80px;
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 10px;
+    /* z-index: 2; */
+}
+
+.category-item {
+    width: 200px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--black);
+    /* z-index: 1; */
+}
+.category-item > span {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.11;
+    text-align: center;   
+    color: var(--white);
+}
+
+.category-item:hover {
+    background-color: var(--primary);
+    cursor: pointer;
+}

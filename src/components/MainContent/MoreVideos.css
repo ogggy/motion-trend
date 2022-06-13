@@ -1,0 +1,7 @@
+.more-videos {
+    width: 100%;
+    height: fit-content;
+    margin-top: 70px;
+    display: flex;
+    gap: 15px;
+}

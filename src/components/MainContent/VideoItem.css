@@ -1,0 +1,122 @@
+.video-item {
+    width: fit-content;
+    height: fit-content;
+    /* border: 1px solid black; */
+}
+
+.video-content {
+    width: 360px;
+    height: 204px;
+    /* border: 1px solid red; */
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.video-img,
+.tz-icon,
+.video-description,
+.video-length {
+    position: absolute;
+}
+
+.video-img,
+.tz-icon,
+.video-description,
+.video-length:hover {
+    cursor: pointer;
+}
+
+
+.video-img {
+    width: 360px;
+    height: 204px;
+    object-fit: contain;
+}
+
+.tz-icon {
+    left: 10px;
+}
+
+.video-description {
+    width: 151px;
+    height: 28px;
+    left: 15px;
+    bottom: 15px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.11;
+    color: #fff;
+}
+
+.video-length{
+    bottom: 15px;
+    right: 11px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.29;
+    text-align: right;
+    color: #fff;
+}
+
+.user-info {
+    height: 16px;
+    width: 100%;
+    /* border: 1px solid red; */
+    position: relative;
+    display: block;
+}
+
+.user-info > img {
+    height: 16px;
+    width: 16px;
+    object-fit: contain;
+}
+
+.user-info > span {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.user-img, 
+.user-name, 
+.like-icon, 
+.like-number, 
+.view-icon,
+.view-number {
+    position: absolute;
+}
+.user-img, 
+.user-name, 
+.like-icon, 
+.like-number, 
+.view-icon,
+.view-number:hover {
+    cursor: pointer;
+}
+
+
+.user-name {
+    left: 21px;
+    line-height: 1.5;
+}
+
+.like-icon {
+    right: 63px;
+}
+
+.like-number {
+    line-height: 1.46;
+    right: 47px;
+}
+
+.view-icon {
+    right: 16px;
+}
+
+.view-number {
+    line-height: 1.46;
+    right: 0;
+}
+
+    
+
